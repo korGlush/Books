@@ -1,0 +1,114 @@
+*{font-family: 'Lato', sans-serif;}
+
+
+.bg-light {
+    background-color: #00afa5 !important;
+    /*background-color: #e76ea7 !important;*/
+}
+
+.btn-outline-success {
+color: white;
+border-color: white;
+}
+
+#navbarSupportedContent a {
+color: white
+
+}
+
+.carousel-caption {
+position: absolute;
+color: #ffff00;
+right: 15%;
+top: 20px;
+left: 15%;
+text-align: left;
+}
+
+.prices-container {
+background: #00afa5;
+text-align: center;
+}
+.card-deck {
+color: #00afa5;
+margin-right: 10px;
+margin-left: 10px;
+}
+
+.card-deck .card {
+    margin-bottom: 70px;
+    }
+
+.headline_pricing {
+padding-top: 70px;
+padding-bottom: 20px;
+color: white;
+}
+
+.appointment-container {
+background: #de90c0;
+
+}
+
+.headline_appointment {
+padding-top: 70px;
+padding-bottom: 20px;
+text-align: center !important;
+color: white;
+}
+
+.appointment-container_forms {
+display: flex;
+justify-content: center;
+flex-wrap: wrap-reverse;
+/*flex-direction: row-reverse;*/
+}
+
+.appointment_container_left {
+width: 40%;
+padding: 20px;
+padding-bottom: 60px;
+}
+
+.appointment_container_right {
+width: 40%;
+padding: 20px;
+padding-bottom: 60px;
+}
+
+.faq-container {
+text-align: center;
+display: flex;
+justify-content: center;
+flex-direction: column;
+background-color: #00afa5;
+}
+
+
+.headline_faq {
+padding-top: 70px;
+padding-bottom: 20px;
+color: white;
+}
+
+.accordion {
+padding-left: 150px;
+padding-right: 150px;
+}
+
+
+footer {
+display: flex;
+align-content: bottom;
+position: fixed;
+background-color: #00afa5;
+  padding: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+}
+
+.nav a {
+color: white
+}
